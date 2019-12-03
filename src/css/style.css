@@ -1,7 +1,7 @@
-body {
-  background-color: purple;
+* {
+  box-sizing: border-box;
 }
 
-h2 {
-  color: azure;
+body {
+  font-family: "PF Din Text Cond Pro";
 }
